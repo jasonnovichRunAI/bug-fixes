@@ -2,6 +2,7 @@
 
 ## Known issues
 
+There is a table that should go here.
 
 ## Fixed issues
 
