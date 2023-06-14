@@ -10,3 +10,5 @@ adding to see propogation for submodules in branches.
 adding to main.
 
 ADDING TO BUG FIXES REPO. SEEING WEHERE THIS PROPOGATES.
+
+another change after a movbe.
