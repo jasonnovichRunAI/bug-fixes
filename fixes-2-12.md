@@ -1,6 +1,6 @@
 # Changelog 2.12
 
-## Version2.12.2
+## Version 2.12.20
 
 ### Known issues
 
@@ -32,7 +32,7 @@ None
 
 ### Fixed issues
 
-| Internal ID | Description | | Release&nbsp;&nbsp;&nbsp;Version |
+| Internal ID | Description |  Release&nbsp;&nbsp;&nbsp;Version |
 | :---------- | :----------------------- | :------------------------------------------------- |
 | RUN-5676    | When Interactive Jupyter notebook workloads that contain passwords are cloned, the password is exposed in the displayed CLI command.                                              | Fixed in 2.9<br/>Fixed in 2.10.1<br/>Fixed in 2.12 |
 | RUN-5457    | When using the Home environment variable in conjunction with the ran-as-user option in the CLI, the Home environment variable is overwritten with the user's home directory.      | Fixed in 2.9<br/>Fixed in 2.10.1<br/>Fixed in 2.12 |
