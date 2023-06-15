@@ -1,6 +1,6 @@
 # Changelog 2.9
 
-## Version2.9.22
+## Version 2.9.22
 
 ### Known issues
 
@@ -24,7 +24,7 @@ None
 | RUN-4554    | Users are trying to login with single-sign-on get a "review profile" page.                                                                                                         | Fixed in 2.9<br/>Fixed in 2.10.1<br/>Fixed in 2.12       |
 | RUN-4464    | Single HPO (hyperparameter optimization) workload is displayed in the Job list user interface as multiple jobs (one for every pod).                                                | Fixed in 2.9<br/>Fixed in 2.10.1<br/>Fixed in 2.12       |
 
-### Version 2.9.11
+## Version 2.9.11
 
 ### Known issues
 
