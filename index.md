@@ -19,3 +19,5 @@ The table for the known and fixed issues contains 3 columns:
 * There will be only one instance of any issue in the table.
 * The entries in the *Release version* will be listed in order of newest to oldest.
 * Entries will be put in the table based on the newest *Release version* where it was discovered. All other versions will be listed in descending order.
+
+Checking to see if this updates all of the branches.
