@@ -39,7 +39,7 @@
 | RUN-12002 | runai-public AMD message is not in the right place. | - |
 | RUN-12003 | Event history is not syncing to control plane. | - |
 | RUN-12010 | runaicli authenticated with userId instead of email. | - |
-| RUN-12014 | Researcher authentication flag in General | Settings is not grayed out. | - |
+| RUN-12014 | Researcher authentication flag in General Settings is not grayed out. | - |
 | RUN-12017 | Circular dependency between authorization service & tenants manager. | - |
 | RUN-12110 | OCP Insufficient permissions. | - |
 | RUN-12174 | User migration failing. | - |
